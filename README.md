@@ -13,7 +13,7 @@ This is a Flask-based Voice Assistant application using OpenAI's GPT-3.5 Turbo f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/MuhammadNasarUddin/rehan-ai-voice-assistant.git
+    git clone https://github.com/MuhammadNasarUddin/voice-assistant.git
     ```
 
 2. Install the required packages:
